@@ -13,7 +13,6 @@ import 'package:inshort_clone/bloc/feed/news_feed_event.dart';
 import 'package:inshort_clone/controller/feed_controller.dart';
 import 'package:inshort_clone/controller/provider.dart';
 import 'package:inshort_clone/global/global.dart';
-import 'package:inshort_clone/routes/rouut.dart';
 import 'package:inshort_clone/style/colors.dart';
 import 'package:inshort_clone/style/text_style.dart';
 

@@ -1,4 +1,4 @@
-package com.example.inshort_clone
+package com.project.NEWs
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

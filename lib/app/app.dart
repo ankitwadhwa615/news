@@ -33,7 +33,7 @@ class App extends StatelessWidget {
       ],
       child: MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: "Inshorts Clone",
+          title: "NEWs",
           theme: kLightThemeData,
           darkTheme: kDarkThemeData,
           themeMode:
